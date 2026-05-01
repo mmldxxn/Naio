@@ -1,0 +1,17 @@
+# Flutter
+echomap/build/
+echomap/.dart_tool/
+echomap/.flutter-plugins
+echomap/.flutter-plugins-dependencies
+echomap/*.iml
+echomap/.packages
+
+# Next.js
+echomap-web/node_modules/
+echomap-web/.next/
+echomap-web/out/
+echomap-web/.env*.local
+
+# General
+.DS_Store
+*.log
